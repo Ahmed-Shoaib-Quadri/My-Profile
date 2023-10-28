@@ -1,7 +1,7 @@
 # My-Profile
 <h1 align="center">Hi 👋, I'm Ahmed Shoaib Quadri</h1>
 <h3 align="center">A Passionate Frontend Developer.</h3>
-<img align="right" width="320px" height="200px" alt="2D picture of PC" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png"/>
+<img align="right" width="325px" height="200px" alt="2D picture of PC" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png"/>
 - 🌱 I’m currently learning **JavaScript and other Front-End Technologies.**
 
 - 📫 How to reach me **ahmed040105s@gmail.com**
